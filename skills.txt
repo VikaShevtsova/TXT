@@ -1,0 +1,10 @@
+Skills: 
+Terminal Linux, 
+Codes HTTP, 
+API testing (Postman), 
+DevTools (Google Chrome, FireFox),
+Sniffing http web traffic (Charles, Fiddler),
+Load Testing (Jmeter),
+Mobile testing (Android Studio),
+Python (basic),
+SQL.
